@@ -3,7 +3,7 @@
 
 //=================in C# code =================//
 
-Stopwatch stopwatch;
+        Stopwatch stopwatch;
         public MainPage()
         {
             InitializeComponent();
@@ -11,7 +11,7 @@ Stopwatch stopwatch;
             stopwatch.Reset();
         }
         
- private void btnStart_Clicked(object sender, EventArgs e)
+        private void btnStart_Clicked(object sender, EventArgs e)
         {
             if (!stopwatch.IsRunning)
             {
