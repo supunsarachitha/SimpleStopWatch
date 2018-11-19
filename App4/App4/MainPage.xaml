@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:App4"
+             x:Class="App4.MainPage" BackgroundColor="Black">
+
+    <StackLayout>
+        <Label x:Name="lblStopwatch" FontSize="50" TextColor="White"
+               HorizontalOptions="CenterAndExpand"
+               VerticalOptions="CenterAndExpand">
+            
+        </Label>
+        
+        <Button x:Name="btnStart" Clicked="btnStart_Clicked" Text="Start"></Button>
+        <Button x:Name="btnStop" Text="Stop" Clicked="btnStop_Clicked"></Button>
+        <Button x:Name="btnReset" Text="Reset" Clicked="btnReset_Clicked"></Button>
+
+    </StackLayout>
+
+</ContentPage>
