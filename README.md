@@ -1,8 +1,9 @@
-# SimpleStopWatch
+# Simple Stop Watch
 
+Basic stop watch android mobile app by xamarin technology 
 
-
-
+###Getting Started
+You need a visual studio with xamarin and android mobile device or an emulator
 
 //=================in C# code =================//
 
