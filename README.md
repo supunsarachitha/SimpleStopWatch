@@ -63,7 +63,9 @@ Basic stop watch android mobile app by xamarin technology
         
         
         
-![Screenshot](https://github.com/supunsarachitha/SimpleStopWatch/blob/master/Screenshots/Screenshot_1564053500.png)
+<p align="center">
+  <img src="https://github.com/supunsarachitha/SimpleStopWatch/blob/master/Screenshots/Screenshot_1564053500.png" width="300">
+</p>
         
         
  ## License
