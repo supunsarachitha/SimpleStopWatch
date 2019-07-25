@@ -5,7 +5,7 @@
              x:Class="App4.MainPage" BackgroundColor="Black">
 
     <StackLayout>
-        <Label x:Name="lblStopwatch" FontSize="50" TextColor="White"
+        <Label x:Name="lblStopwatch" FontSize="45" TextColor="White"
                HorizontalOptions="CenterAndExpand"
                VerticalOptions="CenterAndExpand">
             
