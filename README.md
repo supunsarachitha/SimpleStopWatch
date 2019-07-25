@@ -15,8 +15,8 @@ Basic stop watch android mobile app by xamarin technology
 
 
 ## Deployment
-make sure to update latest android sdk and build tools
-set target android version same as buld sdk version
+- make sure to update latest android sdk and build tools
+- set target android version same as buld sdk version
 
 
 ## Coding
