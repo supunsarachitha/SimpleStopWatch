@@ -61,13 +61,17 @@ Basic stop watch android mobile app by xamarin technology
             stopwatch.Reset();
         }
         
-        
+
+
+
+# Screenshot    
         
 <p align="center">
   <img src="https://github.com/supunsarachitha/SimpleStopWatch/blob/master/Screenshots/Screenshot_1564053500.png" width="300">
 </p>
         
         
+ 
  ## License
 
 ##### The MIT License (MIT)
